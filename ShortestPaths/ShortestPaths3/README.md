@@ -11,6 +11,6 @@ go build -v
 ./filename
 ```
 ## ShortestPaths2 : BFS + DFS
-![ALT TEXT](https://github.com/ThanhPP/HUST/blob/master/20192020/Project1/ShortestPaths3/DFS_BFS.png)
+![ALT TEXT](DFS_BFS.png)
 ## ShortestPaths3 : Dijikstra
-![ALT TEXT](https://github.com/ThanhPP/HUST/blob/master/20192020/Project1/ShortestPaths3/DFS_MAP.png)
+![ALT TEXT](DFS_MAP.png)
